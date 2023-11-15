@@ -1,3 +1,20 @@
 .container {
-    background-color: brown;
+    
 }
+
+.mainTitle {
+    font-size: 90px;
+}
+
+.selectTitle {
+    margin: 20px 0;
+    color: #fff;
+}
+
+.items {
+    display: flex;
+    gap: 50px;
+}
+
+
+
