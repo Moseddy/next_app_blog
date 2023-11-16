@@ -12,6 +12,16 @@ body {
   color: #bbb;
 }
 
+.light {
+  background-color: #fff;
+  color: #111;
+}
+
+.dark {
+  background-color: #111;
+  color: #bbb;
+}
+
 :root {
   --main-color: #53c28b;
 }
